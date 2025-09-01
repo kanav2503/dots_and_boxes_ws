@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Experiment outputs (keep local only)
+packages/game_engine/bin/evaluation/
+packages/game_engine/bin/figs_eval2/
